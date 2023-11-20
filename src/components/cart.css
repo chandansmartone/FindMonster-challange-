@@ -1,0 +1,30 @@
+.container{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 270px;
+}
+p{
+    margin: 10px auto;
+}
+.cart{
+    height: 320px;
+    margin: 1rem;
+    background-color: #95dada;
+    padding: 2rem;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.eno{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
